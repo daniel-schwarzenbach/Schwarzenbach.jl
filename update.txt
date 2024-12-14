@@ -1,0 +1,6 @@
+(@v1.9) pkg> precompile Schwarzenbach
+
+(@v1.9) pkg> update Schwarzenbach
+    Updating registry at `~/.julia/registries/General.toml`
+  No Changes to `~/.julia/environments/v1.9/Project.toml`
+  No Changes to `~/.julia/environments/v1.9/Manifest.toml`

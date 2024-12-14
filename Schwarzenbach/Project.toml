@@ -1,0 +1,4 @@
+name = "Schwarzenbach"
+uuid = "fbd0575b-92a0-49c0-8a68-004a40c34691"
+authors = ["Daniel Schwarzenbach <dschwarze@student.ethz.ch>"]
+version = "0.1.0"
